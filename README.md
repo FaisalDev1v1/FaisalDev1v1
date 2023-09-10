@@ -4,10 +4,10 @@
 - Collaborate on open-source Projects 
 - Building Web application
 - Building Chatbot 
-- Solve complex problem with code 
+- Solve complex problems with code 
 - Managing Software Projects 
-- 📫 How to reach me **FaisaliDev1v1@gmail.com**
-                    **https://bento.me/faisalidev**
+- 📫 How to reach me - FaisaliDev1v1@gmail.com
+                    - https://bento.me/faisalidev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
