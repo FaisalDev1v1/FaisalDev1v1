@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center"> Software Developer from KSA 🇸🇦 </h3>
-- 👯 I’m looking to collaborate on open-source Projects
+- 👯 I’m ready for :
+- Collaborate on open-source Projects 
+- Building Web application
+- Building Chatbot 
+- Solve complex problem with code 
+- Managing Software Projects 
 - 📫 How to reach me **FaisaliDev1v1@gmail.com**
+                    **https://bento.me/faisalidev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
